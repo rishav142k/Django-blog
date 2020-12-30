@@ -16,6 +16,10 @@
   <h3 align="center">Django Blog</h3>
 
   <p align="center">
+    <a align="center" href="https://github.com/rishav142k/Django-blog/">
+    <img src="img/logo.png" alt="Logo" width="80" height="80">
+  </a>
+  <br>
     A web application to blog your favorite things. Supports multiple users.
     <br />
     <a href="https://github.com/rishav142k/django-blog/"><strong>Explore the docs »</strong></a>
@@ -58,7 +62,7 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-
+![Product Name Screen Shot][product-screenshot]
 This is my starter project with Django. I had no experience of backend prior to making this web-app. Django app has several functionalities- from login-logout system to CRUD different posts. It also supports pagination to prevent excessive load on the user side when the overall number of posts increase. It also allows to update user profile details.
 
 ### Built With
@@ -150,4 +154,4 @@ Distributed under the MIT License. See `LICENSE` for more information.
 [issues-url]: https://github.com/rishav142k/django-blog/issues
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/rishav-sharma-142k/
-[product-screenshot]: images/screenshot.png
+[product-screenshot]: img/screenshot.png
